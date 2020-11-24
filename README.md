@@ -6,16 +6,14 @@ The GP module is found in the file GP.py. It is based on GPytorch.
 
 
 ### Dependencies
-\begin{itemize}
-\item Python >= 3.6
-\item PyTorch >= 1.6
-\item gpytorch >= 1.0.1
-\item nibabel >= 3.0.2
-\item nilearn >= 0.6.2
-\item pandas >= 0.25.3
-\item scipy >= 1.4.1
-\item sklearn
 
+- Python >= 3.6
+- PyTorch >= 1.6
+- gpytorch >= 1.0.1
+- nibabel >= 3.0.2
+- nilearn >= 0.6.2
+- pandas >= 0.25.3
+- scipy >= 1.4.1
+- sklearn
 
-\end{itemize}
 
